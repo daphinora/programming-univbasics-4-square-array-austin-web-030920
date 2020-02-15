@@ -1,8 +1,3 @@
-# at some point you'll probably do something like "new_array = [(collection of new squared numbers)]"
-# bc the lab asks for a new array to be returned!!!!
-# use the WHILE iterator!!!
-# no .each .map .collect .inject
-
 def square_array(array)
   new_array = []
   counter = 0
